@@ -1,0 +1,5 @@
+{
+  "name": "Wandering Fortress",
+  "description": "A web-first 3D cozy survival PWA with adaptive performance scaling.",
+  "requestFramePermissions": []
+}
